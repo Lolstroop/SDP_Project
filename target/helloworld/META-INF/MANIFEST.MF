@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: João Cotrim
+Build-Jdk: 15.0.1
+Specification-Title: Quickstart: helloworld
+Specification-Version: 20.0.1.Final
+Implementation-Title: Quickstart: helloworld
+Implementation-Version: 20.0.1.Final
+Implementation-Vendor-Id: org.wildfly.quickstarts
+Implementation-URL: https://github.com/wildfly/quickstart/helloworld
+Java-Version: 11.0.9
+Java-Vendor: JetBrains s.r.o.
+Os-Name: Windows 10
+Os-Arch: amd64
+Os-Version: 10.0
+Scm-Url: http://github.com/jboss/jboss-parent-pom/quickstart-parent/hell
+ oworld
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/quicks
+ tart-parent/helloworld
+Scm-Revision: 
+
